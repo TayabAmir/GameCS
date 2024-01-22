@@ -1,0 +1,10 @@
+D:\Tayyab\GBAF\Game\bin\Debug\Game.exe.config
+D:\Tayyab\GBAF\Game\bin\Debug\Game.exe
+D:\Tayyab\GBAF\Game\bin\Debug\Game.pdb
+D:\Tayyab\GBAF\Game\bin\Debug\EZInput.dll
+D:\Tayyab\GBAF\Game\bin\Debug\EZInput.xml
+D:\Tayyab\GBAF\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\Tayyab\GBAF\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Tayyab\GBAF\Game\obj\Debug\Game.csproj.CopyComplete
+D:\Tayyab\GBAF\Game\obj\Debug\Game.exe
+D:\Tayyab\GBAF\Game\obj\Debug\Game.pdb
